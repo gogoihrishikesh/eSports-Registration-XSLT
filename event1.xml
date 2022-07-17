@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="event.xsl"?>
+<root>
+    <event>
+        <event_id>1</event_id>
+        <event_name>Battle Grounds Mobile India (BGMI)</event_name>
+        <event_desc>The tournament will be in group stages. Qualifiers->SemiFinals->Finals(5 matches)</event_desc>
+        <event_type_participation>Team</event_type_participation>
+        <event_timing>
+            <event_start_datetime>2022-07-01 10:00:00</event_start_datetime>
+            <event_end_datetime>2022-08-01 12:00:00</event_end_datetime>
+        </event_timing>
+        <event_organizer_email>abc@gmail.com</event_organizer_email>
+        <event_organizer_phone>1234567890</event_organizer_phone>
+    </event>
+    <event>
+        <event_id>2</event_id>
+        <event_name>Battle Grounds Mobile India (BGMI) TDM</event_name>
+        <event_desc>Best of 3 matches for each groups. Qualifiers->Semis->Finals</event_desc>
+        <event_type_participation>Team</event_type_participation>
+        <event_timing>
+            <event_start_datetime>2022-07-01 10:00:00</event_start_datetime>
+            <event_end_datetime>2022-08-01 12:00:00</event_end_datetime>
+        </event_timing>
+        <event_organizer_email>efg@gmail.com</event_organizer_email>
+        <event_organizer_phone>1230097890</event_organizer_phone>
+    </event>
+    <event>
+        <event_id>3</event_id>
+        <event_name>Valorant</event_name>
+        <event_desc>Qualifiers(knock out)->QFinals(knock out)->SemiFinals(Bo3)->Finals(Bo5)</event_desc>
+        <event_type_participation>Team</event_type_participation>
+        <event_timing>
+            <event_start_datetime>2022-07-01 10:00:00</event_start_datetime>
+            <event_end_datetime>2022-08-01 12:00:00</event_end_datetime>
+        </event_timing>
+        <event_organizer_email>hij@gmail.com</event_organizer_email>
+        <event_organizer_phone>9000543210</event_organizer_phone>
+    </event>
+    <event>
+        <event_id>4</event_id>
+        <event_name>FIFA 21</event_name>
+        <event_desc>Qualifiers->SemiFinals->Finals</event_desc>
+        <event_type_participation>Solo</event_type_participation>
+        <event_timing>
+            <event_start_datetime>2022-07-01 10:00:00</event_start_datetime>
+            <event_end_datetime>2022-08-01 12:00:00</event_end_datetime>
+        </event_timing>
+        <event_organizer_email>lmn@gmail.com</event_organizer_email>
+        <event_organizer_phone>9876123210</event_organizer_phone>
+    </event>
+    <event>
+        <event_id>5</event_id>
+        <event_name>Counter Strike Global Offensive(CS-GO)</event_name>
+        <event_desc>Qualifiers(knock out)->QFinals(knock out)->SemiFinals(Bo3)->Finals(Bo5)</event_desc>
+        <event_type_participation>Team</event_type_participation>
+        <event_timing>
+            <event_start_datetime>2022-07-01 10:00:00</event_start_datetime>
+            <event_end_datetime>2022-08-01 12:00:00</event_end_datetime>
+        </event_timing>
+        <event_organizer_email>opq@gmail.com</event_organizer_email>
+        <event_organizer_phone>9876543210</event_organizer_phone>
+    </event>
+</root>
